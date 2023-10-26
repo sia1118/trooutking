@@ -5,43 +5,84 @@
 <url>
   <loc>https://troutking.net/</loc>
   <priority>1.0</priority>
-  <lastmod>2023-10-06T16:25:00+09:00</lastmod>
+  <lastmod>2023-10-26T13:04:00+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://troutking.net/about/</loc>
   <priority>0.8</priority>
-  <lastmod>2023-10-06T16:26:00+09:00</lastmod>
+  <lastmod>2023-10-24T19:00:00+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://troutking.net/rule/</loc>
+  <priority>0.8</priority>
+  <lastmod>2023-10-26T12:19:00+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://troutking.net/news/</loc>
   <priority>0.8</priority>
-  <lastmod>2023-10-06T16:26:00+09:00</lastmod>
+  <lastmod>2023-10-24T19:05:00+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://troutking.net/result/</loc>
   <priority>0.8</priority>
-  <lastmod>2023-10-06T16:26:00+09:00</lastmod>
+  <lastmod>2023-10-25T15:26:00+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://troutking.net/schedule/</loc>
   <priority>0.8</priority>
-  <lastmod>2023-10-06T16:26:00+09:00</lastmod>
+  <lastmod>2023-10-25T10:13:00+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://troutking.net/entry/</loc>
   <priority>0.8</priority>
-  <lastmod>2023-10-06T16:26:00+09:00</lastmod>
+  <lastmod>2023-10-24T19:05:00+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://troutking.net/news/20230922/</loc>
   <priority>0.8</priority>
-  <lastmod>2023-10-06T16:26:00+09:00</lastmod>
+  <lastmod>2023-10-24T19:05:00+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://troutking.net/rule/teambattle/</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-10-26T11:26:00+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://troutking.net/rule/open_singles/</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-10-26T11:26:00+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://troutking.net/rule/open_doubles/</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-10-26T11:26:00+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://troutking.net/rule/expert/</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-10-26T11:26:00+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://troutking.net/result/region/</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-10-26T11:26:00+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://troutking.net/rule/pro/</loc>
+  <priority>0.6</priority>
   <changefreq>daily</changefreq>
 </url>
 
